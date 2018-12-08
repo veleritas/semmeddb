@@ -1,2 +1,5 @@
 venv/
 .ipynb_checkpoints/
+
+data/raw/edges_7_metanode_slim.csv
+pipeline/no_treats/semmeddb_no_treats_edges.tsv
